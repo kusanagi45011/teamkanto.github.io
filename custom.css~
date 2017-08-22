@@ -35,9 +35,3 @@ ul {
 img {
      max-width: 100%;
 }
-
-/* indent for class="indentback" */
-p.indentback{
-  text-indent: -1em;
-  padding-left: 2em;
-}
