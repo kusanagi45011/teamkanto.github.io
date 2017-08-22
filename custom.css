@@ -30,3 +30,8 @@ ul {
   flex-direction:row;
   flex-wrap:wrap;
 }
+
+/* shrink image when the screen is narrow */
+img {
+     max-width: 100%;
+}
